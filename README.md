@@ -1,5 +1,9 @@
 ### Welcome to PVMAPS Beta 
 
+
+[![DOI](https://zenodo.org/badge/594789400.svg)](https://zenodo.org/badge/latestdoi/594789400)
+
+
 PVMAPS lets you simulate the energy yield potential of solar farms anywhere in the world. 
 
 Current version supports the following solar farm configurations: (i) systems with fixed-tilted c-Si monofacial and  (ii) systems with vertical bifacial modules with ground-sculpting.
