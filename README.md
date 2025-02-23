@@ -1,4 +1,4 @@
-## Welcome to PVMAPS Beta 
+## Welcome to PVMAPS
 
 
 [![DOI](https://zenodo.org/badge/594789400.svg)](https://zenodo.org/badge/latestdoi/594789400)
